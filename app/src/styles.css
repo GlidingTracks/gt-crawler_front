@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css?family=Comfortaa');
+/* You can add global styles to this file, and also import other style files */
+body{
+  margin: 0;
+  position: absolute;
+  top: 0;
+  font-family: "Comfortaa", sans-serif;
+  color: white;
+  background-color: #202020;
+  /*background-color: rgb(90, 38, 227);*/
+  overflow-x: hidden;
+}
